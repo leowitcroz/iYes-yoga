@@ -1,0 +1,572 @@
+.cabecalho{
+    background:url("images/Sem-título.png");
+    display: flex;
+    width: 100%;
+   position: relative;
+    
+
+    
+}
+.titulo{
+    
+    font-family: 'Grape Nuts', cursive;
+    font-weight: bold;
+    width: 70%;
+    padding-left: 20%;
+    padding-top: 1%;
+    
+    
+}
+.titulo-cabecalho{
+    margin-top: 3.5%;
+    font-size: 5rem;
+    font-family: 'Grape Nuts', cursive;
+    font-weight: bold;
+    
+}
+.subtitulo-cabecalho{
+    text-align: center;
+    padding-right: 35%;
+    font-weight: bold;
+    color: rgb(235, 235, 235);
+    font-size: 2.5rem;
+    
+}
+
+.imagem-logo{
+
+    width: 10%;
+    display: flex;
+    margin-left: 3%;
+    
+}
+.imagem-logo-2{
+    width: 10%;
+    display: flex;
+
+}
+
+.bloco-principal{
+
+    background: rgb(32,91,30);
+    background: linear-gradient(0deg, rgba(32,91,30,1) 18%, rgba(236,158,110,1) 100%);
+   width: 100%;
+   height: 80rem;
+   border-top: 2px solid white ;
+   
+  }
+  .bloco-banner{
+
+    border-bottom: 2px solid white;
+    padding-bottom: 1%;
+  }
+
+.imagem-inicio{
+
+    width: 33%;
+    margin-left:32% ;
+    margin-top: 1%;
+    border-radius: 1rem;
+    border: solid 2px white;
+    
+}
+.bloco-estrutor{
+    display: flex;
+    margin-bottom: 3%;
+
+}
+
+.imagem-estrutor{
+
+    width: 65%;
+    margin-top: 10%;
+    margin-left: 25%;
+    border-radius: 1rem;
+    border: 3px solid white;
+
+
+    
+    
+
+}
+
+.estrutor-texto-fundo{
+
+    margin-top: 17%;
+    margin-right: 7%;
+    background-color: #3e4a1c;
+    width: 70%;
+    height: 30rem;
+    border-radius: 1rem;
+    border: 2px solid white;
+}
+
+.texto-instrutor{
+    text-align: center;
+    padding-top: 5%;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
+.texto-instrutor h1{
+    font-family: 'Grape Nuts', cursive;
+    color: rgb(245, 81, 40);
+    font-size: 3.6rem;
+    font-weight: bold;
+}   
+
+.texto-instrutor h2{
+
+    font-family: 'Grape Nuts', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 2.4rem;
+    font-weight: bold;
+}
+
+.texto-instrutor p{
+
+    font-family: 'Grape Nuts', cursive;
+    color: rgb(0, 0, 0);
+    font-size: 2rem;
+    font-weight: bold;
+    padding-top: 1%;
+}
+
+.segundo-bloco{
+    border-top: 1px solid white;
+    background-color: rgb(32,91,30);
+    padding-bottom: 2%;
+    height: 50rem;
+    border-bottom: 1px solid white;
+    
+}
+.bloco-Yoga{
+
+    padding-bottom: 3%;
+}
+
+
+.imagem-yoga{
+
+    width: 45%;
+    margin-top: 4%;
+    margin-left: 50%;
+    border-radius: 1rem;
+    border: 3px solid white;
+
+
+}
+
+.yoga-texto-fundo{
+
+    margin-top: -20%;
+    margin-right: 7%;
+    background-color: #3e4a1c;
+    width: 45%;
+    height: 24rem;
+    border-radius: 1rem;
+    border: 2px solid white;
+    margin-left: 2.5%;
+    
+}
+.texto-yoga{
+
+    text-align: center;
+    padding-top: 5%;
+    padding-right: 1%;
+    padding-left: 1%;
+    font-family: 'Grape Nuts', cursive;
+}
+
+.texto-yoga h1{
+
+    font-family: bold;
+    color: rgb(245, 81, 40);
+    font-size: 3.3rem;
+    font-weight: bold;
+
+}
+.texto-yoga h2{
+    font-family: 'Grape Nuts', cursive;
+    color: rgb(255, 255, 255);
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+
+.texto-yoga p{
+    font-family: 'Grape Nuts', cursive;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 1%;
+}
+
+
+.bloco-beneficios{
+    border-top: 1px solid white;
+    background-color: rgb(32,91,30);
+    padding-bottom: 2%;
+    height: 52rem;
+    border-bottom: 1px solid white; 
+    
+    
+    
+}
+.bene{
+
+    display: flex;
+}
+
+.imagem-beneficios{
+    margin-top: 30%;
+    width: 250%;
+    margin-left: 32%;
+    border: 3px white solid;
+    border-radius: 1rem;
+    margin-bottom: 20%;
+
+    
+}
+
+.beneficios-texto-fundo{
+
+    margin-left:35%;
+    margin-top: 8%;
+    background-color: #3e4a1c;
+    width: 40%;
+    border-radius: 1rem;
+    border: 2px white solid;
+    height: 28rem;
+}
+
+.texto-beneficios{
+    font-family: 'Grape Nuts', cursive;
+    padding: 1%;
+    margin-top: 2%
+    
+}
+
+.texto-beneficios h1{
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 3.3rem;
+    padding-bottom: 1%;
+    color: rgb(245, 81, 40);
+}
+.lista-beneficios{
+
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: black;
+    list-style: "★";
+    
+
+}
+.itens{
+    padding:1%;
+}
+
+
+  .footer{
+    width: 100%;
+    height: 19rem;
+    background-color: #205b1e;
+    border-top: 2px solid white ;
+    display: inline-block
+    
+  }
+
+  .rodape{
+
+    display: flex ;
+  }
+
+  .imagem-footer{
+    width: 14%;
+    margin-top: 1%;
+    margin-left: 20.5%
+  }
+  
+  .lista-contatos{
+    margin-left: 5%;
+    margin-top: 1%;
+    background-color: #164215;
+    padding: 1%;
+    border-radius: 1rem;
+  }
+
+  .lista-contatos h1{
+
+    font-family: 'Grape Nuts', cursive;
+    color: white;
+    font-weight: bold;
+    font-size: 3rem;
+
+  }
+
+  .lista-contatos p{
+    font-family: 'Grape Nuts', cursive;
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+   
+
+  }
+
+  .logo-whatsapp {
+    font-size: 28px;
+    background-color: #24cd63;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 20px;
+    text-align: center;
+    font-weight: 700;
+    margin: 0;
+    position: absolute;
+    position: fixed;
+    right: 20px;
+    bottom: 60px;
+
+   
+  }
+  
+  .whats{
+    width: 180%;
+    margin-top: -30px;
+    margin-left: -6px;
+  }
+    
+  .insta{
+    
+    
+    font-size: 100px;
+    
+    color: rgb(255, 255, 255);
+    width: 5.5%;
+    height: 10.5%;
+    border-radius: 42%;
+    padding: 20px;
+    text-align: center;
+    font-weight: 700;
+    margin: 0px;
+    position: fixed;
+    right: 1px;
+    bottom: 123px;
+}
+
+   
+@media (min-width: 320px) and (max-width: 480px) {
+  .segundo-bloco{
+    height: 110rem;
+  }
+
+  .cabecalho{
+
+    height: 7rem;
+    background: url("images/fundo-mob.png");
+  }
+  
+  .titulo{
+    font-family: 'Grape Nuts', cursive;
+    font-weight: bold;
+    width: 100%;
+    padding-left: 1%;
+    padding-top: 1%;
+  }
+.titulo-cabecalho{
+    margin-top: 3.5%;
+    font-size: 2.3rem;
+    font-family: 'Grape Nuts', cursive;
+    font-weight: bold;
+}
+.subtitulo-cabecalho {
+    text-align: center;
+    padding-right: 13%;
+    font-weight: bold;
+    color: rgb(235, 235, 235);
+    font-size: 2rem;}
+    .bloco-estrutor{
+      display: inline;
+    }
+
+    .imagem-estrutor{
+      width: 87%;
+      margin-top: 5%;
+      margin-left: 7%;
+      border-radius: 1rem;
+      border: 3px solid white;}
+
+        .estrutor-texto-fundo{
+          
+          margin-top: 6%;
+          background-color: #3e4a1c;
+          width: 75%;
+          height: 31rem;
+          border-radius: 1rem;
+          border: 2px solid white;
+          margin-left: 5.5%;
+          width: 90%;
+          padding: 1%;
+          margin-bottom: 7%
+        }
+        .texto-instrutor h1{
+          font-size: 2.3rem;
+        }
+        .texto-instrutor h2{
+          font-size: 2rem;
+        }
+        .texto-instrutor p{
+          font-size: 1.8rem;
+        }
+        
+  .bloco-principal{
+
+    height: 100rem;
+  }
+
+
+  .imagem-logo{
+    width: 22%;
+    height: 99%; 
+    padding-top: 1%;
+  }
+
+  .imagem-logo-2{
+
+    display: none;
+  }
+  .imagem-inicio{
+
+    width: 102%;
+    margin-left: 0%;
+    border-radius: 0%;
+  }
+
+  .imagem-yoga{
+    width: 87%;
+    margin-top: 5%;
+    margin-left: 7%;
+    border-radius: 1rem;
+    border: 3px solid white;}
+
+      .yoga-texto-fundo{
+        
+        margin-top: 6%;
+        background-color: #3e4a1c;
+        width: 75%;
+        height: 40rem;
+        border-radius: 1rem;
+        border: 2px solid white;
+        margin-left: 5.5%;
+        width: 90%;
+        padding: 1%;
+        margin-bottom: 7%
+      }
+      .texto-yoga h1{
+        font-size: 2.3rem;
+      }
+      .texto-yoga h2{
+        font-size: 2rem;
+      }
+      .texto-yoga p{
+        font-size: 1.6rem;
+      }
+      .imagem-yoga{
+    width: 87%;
+    margin-top: 5%;
+    margin-left: 7%;
+    border-radius: 1rem;
+    border: 3px solid white;}
+
+      .yoga-texto-fundo{
+        
+        margin-top: 6%;
+        background-color: #3e4a1c;
+        width: 75%;
+        height: 40rem;
+        border-radius: 1rem;
+        border: 2px solid white;
+        margin-left: 5.5%;
+        width: 90%;
+        padding: 1%;
+        margin-bottom: 7%
+      }
+      .texto-yoga h1{
+        font-size: 2.3rem;
+      }
+      .texto-yoga h2{
+        font-size: 2rem;
+      }
+      .texto-yoga p{
+        font-size: 1.6rem;
+      }
+
+      
+
+
+      .bene{
+        display: inline;
+      }
+
+      .imagem-beneficios{
+        width: 87%;
+        margin-top: 5%;
+        margin-left: 7%;
+        border-radius: 1rem;
+        border: 3px solid white;}
+    
+          .beneficios-texto-fundo{
+            
+            margin-top: -16%;
+            background-color: #3e4a1c;
+            width: 75%;
+            height: 32rem;
+            border-radius: 1rem;
+            border: 2px solid white;
+            margin-left: 5.5%;
+            width: 90%;
+            padding: 1%;
+            margin-bottom: 7%
+          }
+          .texto-beneficios h1{
+            font-size: 2.3rem;
+          }
+          .lista-beneficios {
+            font-size: 1.5rem;
+          }
+          .footer{
+            height: 30rem;
+          }
+
+          .rodape{
+            display: inline;
+          }
+          .lista-contatos{
+            width: 93%;
+            margin-left: 4%;
+
+          }
+          .lista-contatos h1{
+            font-size: 2.3rem;
+
+          }
+          .lista-contatos p{
+            font-size: 1.7rem;
+
+          }
+          .imagem-footer {
+            width: 57%;
+            margin-top: 1%;
+            margin-left: 24.5%;
+        }
+        .logo-whatsapp{
+          bottom: 30px;
+        }
+  }
+
+
+
+  
